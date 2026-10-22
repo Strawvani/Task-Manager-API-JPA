@@ -37,7 +37,6 @@ src/main/java/.../
 └── exception/    # Custom exceptions and global handler
 ```
 
-[Adjust the folder names to match your project.]
 
 ## API endpoints
 
@@ -49,7 +48,6 @@ src/main/java/.../
 | PUT | `/api/tasks/{id}` | Update a task |
 | DELETE | `/api/tasks/{id}` | Delete a task |
 
-[Edit this table so it matches your controller exactly.]
 
 ### Example request
 
@@ -74,14 +72,13 @@ src/main/java/.../
 }
 ```
 
-[Adjust the fields to match your Task model.]
 
 ## Getting started
 
 ### Prerequisites
 
-- JDK [21 — confirm]
-- [Maven/Gradle]
+- JDK 21
+- Maven
 - SQL Server (or the database you use) running locally
 
 ### Setup
