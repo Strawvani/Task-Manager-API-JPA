@@ -79,7 +79,7 @@ src/main/java/.../
 
 - JDK 21
 - Maven
-- SQL Server (or the database you use) running locally
+- SQL Server running locally
 
 ### Setup
 
@@ -105,7 +105,6 @@ src/main/java/.../
    ./mvnw spring-boot:run
    ```
 
-   [Use `./gradlew bootRun` if you use Gradle.]
 
 4. The API will be available at `http://localhost:8080`.
 
