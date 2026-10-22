@@ -18,11 +18,11 @@ Built as part of a structured Java developer internship at 4impact Philippines.
 
 | Area | Technology |
 |------|------------|
-| Language | Java [21 — confirm version] |
+| Language | Java 21 |
 | Framework | Spring Boot |
 | Persistence | Spring Data JPA, Hibernate |
-| Database | Microsoft SQL Server [confirm] |
-| Build tool | [Maven or Gradle — confirm] |
+| Database | Microsoft SQL Server |
+| Build tool | Maven |
 | Testing | Postman |
 
 ## Project structure
